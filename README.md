@@ -26,4 +26,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kokytaurus&show_icons=true&locale=en" alt="kokytaurus" /></p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kokytaurus&theme=dark)](https://git.io/streak-stats)
+<center>[![GitHub Streak](https://streak-stats.demolab.com?user=kokytaurus&theme=prussian&background=8D0E0E)](https://git.io/streak-stats)</center>
